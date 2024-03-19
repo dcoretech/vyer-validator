@@ -1,5 +1,5 @@
 {
-  "name": "vyer-validator",
+  "name": "@fadliaqil12/vyer-validator",
   "version": "1.0.0",
   "main": "dist/index.js",
   "keywords": [
@@ -17,5 +17,8 @@
     "type": "git",
     "url": "github.com/dcoretech/vyer-validator.git"
   },
-  "description": "Vyer Validator offers streamlined string validation, simplifying the process of ensuring data integrity and accuracy in applications."
+  "description": "Vyer Validator offers streamlined string validation, simplifying the process of ensuring data integrity and accuracy in applications.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
