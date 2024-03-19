@@ -1,5 +1,5 @@
 {
-  "name": "@fadliaqil12/vyer-validator",
+  "name": "vyer-validator",
   "version": "1.0.0",
   "main": "dist/index.js",
   "keywords": [
