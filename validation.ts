@@ -63,6 +63,6 @@ class Validation {
   }
 }
 
-export function VyerValidation(field: string | null | undefined) {
+export default function VyerValidation(field: string | null | undefined) {
   return new Validation(field);
 }

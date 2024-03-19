@@ -1,1 +1,0 @@
-export { VyerValidation } from "./validation";

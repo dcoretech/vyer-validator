@@ -1,5 +1,5 @@
 {
-  "name": "vyer-validator",
+  "name": "vyer-validators",
   "version": "1.0.0",
   "main": "dist/index.js",
   "keywords": [
